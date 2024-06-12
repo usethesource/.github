@@ -23,7 +23,7 @@ Find out more about the community's standards and values [here](https://usetheso
 * [rascal-language-servers](https://github.com/usethesource/rascal-language-servers) - VScode extension and LSP server for Rascal, including VScode extension generator and LSP server generator for DSLs
 * [vallang](https://github.com/usethesource/vallang) - Algebraic terms, Relational algebra and Numbers, the value implementations and exchange format under Rascal
 * [salix-core](https://github.com/usethesource/salix-core) - Elm-style UI framework for Rascal
-* [flybytes]https://github.com/usethesource/flybytes) - Reverse and forward engineering framework for JVM bytecode.
+* [flybytes](https://github.com/usethesource/flybytes) - Reverse and forward engineering framework for JVM bytecode.
 * [capsule](https://github.com/usethesource/capsule) - hash-trie based fast immutable multi-sets and multi-maps that implement vallang
 * [impulse](https://github.com/usethesource/impulse) - previously Eclipse IMP - the generic language-level interface to Eclipse; an excellent basis for generatig Eclipse plugins for DSLs and PLs
 

@@ -15,12 +15,9 @@ Find out more about the community's standards and values [here](https://usetheso
 ## Repositories (selected)
 
 * [rascal](https://github.com/usethesource/rascal) - interpreter and runtime system, standard library
-* [rascal-core](https://github.com/usethesource/rascal-core) - experimental compiler and type-checker
-* [typepal](https://github.com/usethesource/typepal) - generic type and name analysis framework
-* [rascal-tutor](https://github.com/usethesource/rascal-tutor) - Rascal documentation system
-* [rascal-maven-plugin](https://github.com/usethesource/rascal-maven-plugin)
-* [rascal-eclipse](https://github.com/usethesource/rascal-eclipse) - Eclipse plugins/generator 
 * [rascal-language-servers](https://github.com/usethesource/rascal-language-servers) - VScode extension and LSP server for Rascal, including VScode extension generator and LSP server generator for DSLs
+* [typepal](https://github.com/usethesource/typepal) - generic type and name analysis framework
+* [rascal-maven-plugin](https://github.com/usethesource/rascal-maven-plugin)
 * [vallang](https://github.com/usethesource/vallang) - Algebraic terms, Relational algebra and Numbers, the value implementations and exchange format under Rascal
 * [salix-core](https://github.com/usethesource/salix-core) - Elm-style UI framework for Rascal
 * [flybytes](https://github.com/usethesource/flybytes) - Reverse and forward engineering framework for JVM bytecode.

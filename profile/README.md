@@ -14,7 +14,7 @@ Find out more about the community's standards and values [here](https://usetheso
 
 ## Repositories (selected)
 
-* [rascal](https://github.com/usethesource/rascal) - interpreter and runtime system, standard library
+* [rascal](https://github.com/usethesource/rascal) - interpreter, static checker, compiler and runtime system, standard library, tutor compiler
 * [rascal-language-servers](https://github.com/usethesource/rascal-language-servers) - VScode extension and LSP server for Rascal, including VScode extension generator and LSP server generator for DSLs
 * [typepal](https://github.com/usethesource/typepal) - generic type and name analysis framework
 * [rascal-maven-plugin](https://github.com/usethesource/rascal-maven-plugin)
